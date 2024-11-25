@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import ContactUs from '@/components/ContactUs'
 import ClientOpinion from '@/components/ClientOpinion'
+import AboutUs from '@/components/AboutUs'
 
 
 const page = () => {
@@ -16,6 +17,7 @@ const page = () => {
           <Navbar />
           <div>
             <Home />
+            <AboutUs />
             <Weather />
             <ClientOpinion />
             <ContactUs />

@@ -26,7 +26,7 @@ const ContactUs = () => {
   };
 
   return (
-    <section className="py-12 bg-[#e5ecef]" id="contato" >
+    <section className="py-12 bg-gray-50" id="contato" >
       <div className="max-w-4xl mx-auto px-6 sm:px-12 lg:px-16">
       <h1 className="text-3xl font-bold text-cyan-700 mb-6 text-center" >
         Entre em contato
